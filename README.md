@@ -15,4 +15,4 @@ Tecnologías y conceptos utilizados
 ✔ Métodos de arreglos (push, find, sort, reduce) para manipular datos. 
 ✔ Validaciones para evitar errores en la entrada de datos.
 
-Basicamente este codigo nos ayudara a administrar y ordenar de una forma muy didactica todos los libres que se quieran y vayan a inventariar.
+Basicamente este codigo nos ayudara a administrar y ordenar de una forma muy didactica todos los libros que se quieran y vayan a inventariar.
